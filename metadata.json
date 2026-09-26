@@ -1,0 +1,6 @@
+{
+  "name": "EduQuest",
+  "description": "Comprehensive Educational Android Application for Study Materials, MCQ Test Series & Quizzes, and Daily Current Affairs with interactive Admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
